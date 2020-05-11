@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MINGW (3a98eb89-c75c-44e7-b51a-f5017739185a)">
+    <serverData>
+      <paths name="MINGW (3a98eb89-c75c-44e7-b51a-f5017739185a)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/PLUS/happyhappy/ASSN3-1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (5313a4b1-d7c4-46ea-b5c5-21b55b39120e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="CSED/ASSN3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
